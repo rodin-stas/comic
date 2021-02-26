@@ -1,0 +1,17 @@
+.comic_nav {
+  margin: 0 auto;
+  max-width: 560px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.comic_nav > a {
+  text-decoration: none;
+  font-size: 28px;
+  cursor: pointer;
+  color: cornflowerblue;
+}
+
+.comic_nav > a:active {
+  color: red;
+}

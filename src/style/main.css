@@ -1,0 +1,15 @@
+@import "~normalize.css";
+@import "./blocs/container.css";
+@import "./blocs/font.css";
+@import "./blocs/title.css";
+@import "./blocs/comic-alt.css";
+@import "./blocs/comic_nav.css";
+@import "./blocs/comic-time.css";
+* {
+  text-align: center;
+}
+
+body {
+  font-family: "sketch", sans-serif;
+  background-color: gainsboro;
+}
